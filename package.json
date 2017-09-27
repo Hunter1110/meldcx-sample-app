@@ -1,0 +1,24 @@
+{
+  "name": "sample-app",
+  "version": "1.0.0",
+  "description": "MeldCX Sample App",
+  "scripts": {
+    "serve": "http-server ./ -p 9999"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeldCX/sample-app.git"
+  },
+  "keywords": [
+    "MeldCX"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MeldCX/sample-app/issues"
+  },
+  "homepage": "https://github.com/MeldCX/sample-app#readme",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
